@@ -1,6 +1,13 @@
 # storage
-This repository is added to serve  files to another website.<br>
-If you find this useless, then its okay, because it is actually pretty useless.<br>
-BTW the website to which is servers files is <a href="https://mediacloud.moviz.workers.dev">https://mediacloud.moviz.workers.dev</a>
-The SVG files can be found on the top right corner.
-And the jpeg file is used as favicon.
+This repository is added to serve  files for other repos, sites and programs.
+
+1. [Avatar - EnergyLocus](/energylocus-avatar.jpg)
+2. [PI Apps installer](/install)
+3. [Icon - MediaCloud](/MediaCloud-icon.jpeg)
+4. [Logo - MediaCloud](/mediacloud-logo.svg)
+5. [Avatar - Priyanshukumar](/priyanshukumar-avatar.jpeg)
+6. [README.md](/README.md)
+7. [Customized Termux Installer](/setup.sh0
+8. [CSS File - style](/style.css)
+
+#### ℹ  You can use it for yourself if you find it useful.
