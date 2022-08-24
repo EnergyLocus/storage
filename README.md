@@ -7,7 +7,7 @@ This repository is added to server files fror other repos, sites and programs.
 4. [Logo - MediaCloud](/mediacloud-logo.svg)
 5. [Avatar - Priyanshukumar](/priyanshukumar-avatar.jpeg)
 6. [README.md](/README.md)
-7. [Customized Termux Installer](/setup.sh)
-8. [CSS File - style](/style.css)
+7. [CSS File - style](/style.css)
+8. [Hashnode tags](/tags.json)
 
 #### ℹ You can use it for yourself if you find it useful.
